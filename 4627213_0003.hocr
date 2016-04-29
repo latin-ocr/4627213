@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./4627213_0003.png"; bbox 0 0 3126 4014; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 461 401 2784 555">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 461 401 2784 555">
+     <span class='ocr_line' id='line_1_1' title="bbox 461 401 2784 555; baseline -0.015 -4"><span class='ocrx_word' id='word_1_1' title='bbox 461 416 1248 550; x_wconf 87' lang='lat' dir='ltr'><strong>AUTHOR:</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1352 406 2064 555; x_wconf 81' lang='lat' dir='ltr'>Klammer‚</span> <span class='ocrx_word' id='word_1_3' title='bbox 2119 401 2784 524; x_wconf 81' lang='lat' dir='ltr'><strong>Hermann</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 472 1020 2403 1401">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 472 1020 2403 1401">
+     <span class='ocr_line' id='line_1_2' title="bbox 472 1020 2360 1169; baseline -0.015 1"><span class='ocrx_word' id='word_1_4' title='bbox 472 1042 1004 1169; x_wconf 90' lang='lat' dir='ltr'><strong>TITLE:</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1109 1020 2360 1159; x_wconf 78' lang='lat' dir='ltr'>Animadversiones</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 472 1226 2403 1401; baseline -0.015 -25"><span class='ocrx_word' id='word_1_6' title='bbox 472 1252 1266 1375; x_wconf 78' lang='lat' dir='ltr'>Annaeanae</span> <span class='ocrx_word' id='word_1_7' title='bbox 1321 1226 2283 1401; x_wconf 79' lang='lat' dir='ltr'>grammaticae.</span> <span class='ocrx_word' id='word_1_8' title='bbox 2322 1329 2343 1349; x_wconf 90' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2382 1328 2403 1348; x_wconf 94' lang='lat'><strong>.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 479 1864 1732 1997">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 479 1864 1732 1997">
+     <span class='ocr_line' id='line_1_4' title="bbox 479 1864 1732 1997; baseline -0.014 1"><span class='ocrx_word' id='word_1_10' title='bbox 479 1866 1085 1997; x_wconf 84' lang='lat' dir='ltr'><strong>PLACE:</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1190 1864 1732 1987; x_wconf 80' lang='lat' dir='ltr'>Bonnae</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 485 2484 1456 2619">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 485 2484 1456 2619">
+     <span class='ocr_line' id='line_1_5' title="bbox 485 2484 1456 2619; baseline -0.011 0"><span class='ocrx_word' id='word_1_12' title='bbox 485 2493 1002 2619; x_wconf 89' lang='lat' dir='ltr'><strong>DATE:</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1126 2484 1456 2611; x_wconf 80' lang='lat'>1878</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 3126 4014">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 3126 4014">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 3126 4014; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 3126 4014; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
